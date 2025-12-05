@@ -4,7 +4,7 @@
 
 This sophisticated workflow orchestrates the complete sales intelligence lifecycle—from prospect email analysis to delivering personalized, credibility-enhanced replies using advanced conversation intelligence and RAG (Retrieval-Augmented Generation).
 
-![Workflow Overview]
+![Workflow Overview](canvas-workflow.png)
 *Complete system architecture showing data flow from email input to personalized response*
 
 ## 🎯 **What This System Does**
