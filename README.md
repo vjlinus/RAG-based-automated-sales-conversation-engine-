@@ -4,7 +4,7 @@
 
 This sophisticated workflow orchestrates the complete sales intelligence lifecycle—from prospect email analysis to delivering personalized, credibility-enhanced replies using advanced conversation intelligence and RAG (Retrieval-Augmented Generation).
 
-![Workflow Overview](canvas-workflow.png)
+![Workflow Overview](RAG Sales Convo Engine_2025-12-05_202117.png)
 *Complete system architecture showing data flow from email input to personalized response*
 
 ## 🎯 **What This System Does**
