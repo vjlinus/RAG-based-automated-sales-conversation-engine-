@@ -12,7 +12,7 @@ Experience our RAG-powered sales engine firsthand! Submit your business inquiry 
 
 This Canvas demonstrates an advanced RAG implementation that combines multiple Zapier products to create an intelligent sales conversation engine. The system automatically analyzes prospect inquiries, retrieves relevant case studies, and generates personalized responses at scale.
 
-![RAG Sales Canvas Demo](https://zapier.com/app/canvas/public/1f4f5259-3d68-4d03-928a-7bbcec4f0530)
+**[🔗 View Live Canvas Workflow](https://zapier.com/app/canvas/1f4f5259-3d68-4d03-928a-7bbcec4f0530)**
 
 ## 🏗️ Architecture Components
 
