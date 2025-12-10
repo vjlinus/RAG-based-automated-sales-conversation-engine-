@@ -8,6 +8,11 @@
 
 Experience our RAG-powered sales engine firsthand! Submit your business inquiry and receive a personalized, contextual response powered by AI and real case study data.
 
+1. **Submit an Inquiry**: Describe your business challenge or automation need
+2. **Receive AI Response**: Get a personalized response based on real case studies
+3. **View the Canvas**: Explore the complete workflow architecture
+4. **Analyze Performance**: Check the analytics dashboard for system insights
+
 ## 📊 System Overview
 
 This Canvas demonstrates an advanced RAG implementation that combines multiple Zapier products to create an intelligent sales conversation engine. The system automatically analyzes prospect inquiries, retrieves relevant case studies, and generates personalized responses at scale.
@@ -97,14 +102,6 @@ This Canvas demonstrates an advanced RAG implementation that combines multiple Z
 - **Scalable Personalization** - Handle multiple inquiries with contextual responses
 - **Knowledge Leverage** - Transform static case studies into dynamic sales assets
 - **Performance Optimization** - Data-driven insights for conversation improvement
-
-## 🚀 Getting Started
-
-1. **Try the System**: Visit our [Sales Email Analyzer](https://sales-email-analyzer-89527f.zapier.app/)
-2. **Submit an Inquiry**: Describe your business challenge or automation need
-3. **Receive AI Response**: Get a personalized response based on real case studies
-4. **View the Canvas**: Explore the complete workflow architecture
-5. **Analyze Performance**: Check the analytics dashboard for system insights
 
 ## 🔧 Implementation Details
 
