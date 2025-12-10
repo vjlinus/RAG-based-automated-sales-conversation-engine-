@@ -1,5 +1,7 @@
 # RAG-Based Automated Sales Conversation Engine
 
+![Workflow Overview](https://img.shields.io/badge/Zapier-Automation-orange) ![AI Powered](https://img.shields.io/badge/AI-GPT--4o--mini-blue) ![Status](https://img.shields.io/badge/Status-Production--Ready-green)
+
 > A sophisticated AI-powered sales automation system that transforms prospect inquiries into personalized, contextual email responses using Retrieval-Augmented Generation (RAG) technology.
 
 ## 🚀 Try It Live
@@ -112,13 +114,13 @@ This system showcases advanced Zapier capabilities including:
 - RAG methodology for contextual responses
 - Real-time performance monitoring and analytics
 
-## 📧 Contact & Demo
 
-Want to implement a similar RAG-powered automation for your business? 
+## 📎 Author
+**Jason Linus**  
+Automation & GTM Engineer  
+[https://www.linkedin.com/in/jason-linus-7120a51/] | [Portfolio](https://nifty-yak-ffd.notion.site/Jason-Linus-8c81e08090a74a9ca2d20287693bebe9?pvs=74)
 
-**[Submit Your Inquiry](https://sales-email-analyzer-89527f.zapier.app/)** and experience the system firsthand!
+*Built with Zapier Canvas • Powered by AI • Production Ready*
 
----
 
-*This Canvas demonstrates the power of combining Zapier's automation platform with modern AI capabilities to create sophisticated, scalable business solutions.*
 
