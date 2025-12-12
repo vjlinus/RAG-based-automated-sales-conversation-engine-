@@ -1,6 +1,6 @@
 # RAG-Based Automated Sales Conversation Engine
 
-![Workflow Overview](https://img.shields.io/badge/Zapier-Automation-orange) ![AI Powered](https://img.shields.io/badge/AI-GPT--4o--mini-blue) ![Status](https://img.shields.io/badge/Status-Production--Ready-green)
+![Workflow Overview](https://img.shields.io/badge/Zapier-Automation-orange) ![AI Powered](https://img.shields.io/badge/AI-GPT--5o--mini-blue) ![Status](https://img.shields.io/badge/Status-Production--Ready-green)
 
 > A sophisticated AI-powered sales automation system that transforms prospect inquiries into personalized, contextual email responses using Retrieval-Augmented Generation (RAG) technology.
 
